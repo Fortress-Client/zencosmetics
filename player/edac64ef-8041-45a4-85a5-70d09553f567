@@ -6,7 +6,7 @@
          "name":"zen",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"zen"
 },
       "staff":{ 
