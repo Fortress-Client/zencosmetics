@@ -1,0 +1,11 @@
+{ 
+   "uuid":"edac64ef-8041-45a4-85a5-70d09553f567",
+   "username":null,
+   "cosmetics":{ 
+      "zen":{ 
+         "name":"zen",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"zen"
+},
