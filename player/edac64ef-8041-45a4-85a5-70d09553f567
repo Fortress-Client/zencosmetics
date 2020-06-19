@@ -4,7 +4,7 @@
    "cosmetics":{ 
       "":{ 
          "name":"",
-         "type":"dragon_wings",
+         "type":"",
          "scale":0.13,
          "active":true,
          "resourceLocation":""
