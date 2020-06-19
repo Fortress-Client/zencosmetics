@@ -9,12 +9,12 @@
          "active":true,
          "resourceLocation":"zen"
 },
-      "zen":{ 
-         "name":"zen",
+      "staff":{ 
+         "name":"staff",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"zen"
+         "resourceLocation":"staff"
       }
    }
 }
