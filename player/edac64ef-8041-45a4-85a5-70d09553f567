@@ -9,12 +9,12 @@
          "active":true,
          "resourceLocation":"zen"
 },
-      "youtube":{ 
-         "name":"youtube",
+      "zen":{ 
+         "name":"zen",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"youtube"
+         "resourceLocation":"zen"
       }
    }
 }
