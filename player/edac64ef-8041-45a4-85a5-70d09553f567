@@ -2,12 +2,12 @@
    "uuid":"edac64ef-8041-45a4-85a5-70d09553f567",
    "username":null,
    "cosmetics":{ 
-      "purple":{ 
-         "name":"purple",
+      "":{ 
+         "name":"",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"purple"
+         "resourceLocation":""
 },
       "chatmod":{ 
          "name":"chatmod",
