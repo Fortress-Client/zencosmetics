@@ -8,6 +8,10 @@
          "scale":0.16,
          "active":true,
          "resourceLocation":"zen"
-      }
-   }
-}
+},
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"youtube"
