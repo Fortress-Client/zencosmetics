@@ -2,12 +2,12 @@
    "uuid":"64653e1a-389a-42c9-b8c9-81a90106bbb3",
    "username":null,
    "cosmetics":{ 
-      "cici":{ 
-         "name":"cici",
+      "zen":{ 
+         "name":"zen",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"cici"
+         "resourceLocation":"zen"
 },
       "youtube":{ 
          "name":"youtube",
