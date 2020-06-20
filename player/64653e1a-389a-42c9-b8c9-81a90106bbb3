@@ -2,12 +2,12 @@
    "uuid":"64653e1a-389a-42c9-b8c9-81a90106bbb3",
    "username":null,
    "cosmetics":{ 
-      "zen":{ 
-         "name":"zen",
+      "purple_cape":{ 
+         "name":"purple_cape",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"zen"
+         "resourceLocation":"purple_cape"
 },
       "youtube":{ 
          "name":"youtube",
