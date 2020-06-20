@@ -30,12 +30,12 @@
          "active":false,
          "resourceLocation":"blackbeta"
 },       
-      "purple":{ 
-         "name":"purple",
+      "purple_cape":{ 
+         "name":"purple_cape",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"purple"
+         "resourceLocation":"purple_cape"
 },         
       "protected":{ 
          "name":"protected",
