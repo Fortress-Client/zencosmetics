@@ -16,6 +16,13 @@
          "active":false,
          "resourceLocation":"youtube"
 },      
+      "zen":{ 
+         "name":"zen",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"zen"
+},      
       "mod":{ 
          "name":"mod",
          "type":"cape",
