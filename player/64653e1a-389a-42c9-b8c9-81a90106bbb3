@@ -15,6 +15,34 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"youtube"
+},           
+      "zen_gold":{ 
+         "name":"zen_gold",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"zen_gold"
+},            
+      "blackbeta":{ 
+         "name":"blackbeta",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"blackbeta"
+},       
+      "purple":{ 
+         "name":"purple",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"purple"
+},         
+      "protected":{ 
+         "name":"protected",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"protected"
 },
       "famous":{ 
          "name":"famous",
