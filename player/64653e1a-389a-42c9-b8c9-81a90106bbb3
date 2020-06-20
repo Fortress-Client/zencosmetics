@@ -15,6 +15,12 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"youtube"
+      "mod":{ 
+         "name":"mod",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"mod"
 },           
       "zen_gold":{ 
          "name":"zen_gold",
