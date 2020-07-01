@@ -30,12 +30,12 @@
          "active":false,
          "resourceLocation":"mod"
 },           
-      "zen_gold":{ 
-         "name":"zen_gold",
+      "landeniscool":{ 
+         "name":"landeniscool",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"zen_gold"
+         "resourceLocation":"landeniscool"
 },            
       "blackbeta":{ 
          "name":"blackbeta",
