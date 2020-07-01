@@ -1,0 +1,10 @@
+{ 
+   "uuid":"e5a3efcf-4ba4-44cd-9f36-3b154e73ec81",
+   "username":null,
+   "cosmetics":{ 
+      "landeniscool":{ 
+         "name":"landeniscool",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"landeniscool"
