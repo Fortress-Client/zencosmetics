@@ -72,12 +72,12 @@
          "active":false,
          "resourceLocation":"valentine_hearts"
 },      
-      "zen_cape":{ 
-         "name":"zen_cape",
+      "zen":{ 
+         "name":"zen",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"zen_cape"
+         "resourceLocation":"zen"
 },      
       "mod":{ 
          "name":"mod",
