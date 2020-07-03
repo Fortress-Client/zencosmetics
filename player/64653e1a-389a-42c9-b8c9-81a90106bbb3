@@ -15,6 +15,62 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"youtube"
+},
+      "Z":{ 
+         "name":"Z",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"Z"
+},
+      "heart":{ 
+         "name":"heart",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"heart"
+},
+      "heart_orange":{ 
+         "name":"heart_orange",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"heart_orange"
+},
+      "heart_red":{ 
+         "name":"heart_red",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"heart_red"
+},
+      "heart_white":{ 
+         "name":"heart_white",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"heart_white"
+},
+      "heart_yellow":{ 
+         "name":"heart_yellow",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"heart_yellow"
+},
+      "Swords":{ 
+         "name":"Swords",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"Swords"
+},
+      "valentine_hearts":{ 
+         "name":"valentine_hearts",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"valentine_hearts"
 },      
       "zen_cape":{ 
          "name":"zen_cape",
