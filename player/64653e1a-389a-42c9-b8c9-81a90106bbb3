@@ -16,6 +16,90 @@
          "active":false,
          "resourceLocation":"youtube"
 },
+      "uk_cape":{ 
+         "name":"uk_cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"uk_cape"
+},
+      "pl_black_cape":{ 
+         "name":"pl_black_cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"pl_black_cape"
+},
+      "pl_cape":{ 
+         "name":"pl_cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"pl_cape"
+},
+      "nitro_cape":{ 
+         "name":"nitro_cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"nitro_cape"
+},
+      "au_cape":{ 
+         "name":"au_cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"au_cape"
+},
+      "japan_cape":{ 
+         "name":"japan_cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"japan_cape"
+},
+      "france_cape":{ 
+         "name":"france_cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"france_cape"
+},
+      "colombia_cape":{ 
+         "name":"colombia_cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"colobmia_cape"
+},
+      "chile_cape":{ 
+         "name":"chile_cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"chile_cape"
+},
+      "venezuela":{ 
+         "name":"venezuela_cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"venezuela_cape"
+},
+      "clown":{ 
+         "name":"clown",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"clown"
+},
+      "banned":{ 
+         "name":"banned",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"banned"
+},
       "Z":{ 
          "name":"Z",
          "type":"cape",
