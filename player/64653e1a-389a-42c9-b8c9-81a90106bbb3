@@ -79,7 +79,7 @@
          "active":false,
          "resourceLocation":"chile_cape"
 },
-      "venezuela":{ 
+      "venezuela_cape":{ 
          "name":"venezuela_cape",
          "type":"cape",
          "scale":0.16,
